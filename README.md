@@ -1,5 +1,5 @@
 # Untitled
-(## 🐍 Python 3.9 vs 3.1: Key Differences
+ 🐍 Python 3.9 vs 3.1: Key Differences
 
 When comparing **Python 3.9** and **Python 3.1**, there are significant advancements and features that make Python 3.9 a more robust and efficient choice for developers. Below is a detailed comparison of the two versions.
 
